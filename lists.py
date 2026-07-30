@@ -1,6 +1,4 @@
-# ==========================================
 # Python List - All Operations
-# ==========================================
 
 # 1. Create List
 mylist = ["vedant", "omm", "mayur"]
