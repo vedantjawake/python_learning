@@ -43,6 +43,19 @@ print("sachin" not in mylist)
 
 print(mylist.index("omm"))
 
+mylist.reverse()
+print(mylist)
+
+newlist = mylist.copy()
+
+print(newlist)
+
+friends = ["rohit", "akash"]
+
+newlist = mylist + friends
+
+print(newlist)
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
