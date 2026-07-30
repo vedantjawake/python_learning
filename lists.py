@@ -41,6 +41,8 @@ print("vedant" in mylist)
 
 print("sachin" not in mylist)
 
+print(mylist.index("omm"))
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
