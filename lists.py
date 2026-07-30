@@ -13,6 +13,9 @@ print(mylist[-1])
 mylist[1] = "rahul"
 print(mylist)
 
+mylist.append("akash")
+print(mylist)
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
