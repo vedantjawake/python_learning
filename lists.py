@@ -25,6 +25,9 @@ print(mylist)
 mylist.remove("omm")
 print(mylist)
 
+mylist.pop()
+print(mylist)
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
