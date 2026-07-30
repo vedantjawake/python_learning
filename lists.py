@@ -16,6 +16,9 @@ print(mylist)
 mylist.append("akash")
 print(mylist)
 
+mylist.insert(1, "rohit")
+print(mylist)
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
