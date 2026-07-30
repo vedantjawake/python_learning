@@ -56,6 +56,17 @@ newlist = mylist + friends
 
 print(newlist)
 
+print(mylist * 2)
+
+print(mylist[0:2])
+
+print(mylist[1:])
+
+print(mylist[::-1])
+
+for name in mylist:
+    print(name)
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
