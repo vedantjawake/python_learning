@@ -34,6 +34,9 @@ print(mylist)
 del mylist[1]
 print(mylist)
 
+mylist.clear()
+print(mylist)
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
