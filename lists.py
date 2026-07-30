@@ -22,6 +22,9 @@ print(mylist)
 mylist.extend(["ajay", "karan"])
 print(mylist)
 
+mylist.remove("omm")
+print(mylist)
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
