@@ -6,6 +6,8 @@ print(mylist)
 
 print(len(mylist)) #length of list
 
+print(mylist[0])
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
