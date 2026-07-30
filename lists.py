@@ -19,6 +19,9 @@ print(mylist)
 mylist.insert(1, "rohit")
 print(mylist)
 
+mylist.extend(["ajay", "karan"])
+print(mylist)
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
