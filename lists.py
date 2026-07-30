@@ -1,6 +1,11 @@
 thislist = ["apple", "banana", "cherry"]
 print(thislist)
 
+mylist =["vedant", "omm", "mayur"]
+print(mylist)
+
+print(len(mylist)) #length of list
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
