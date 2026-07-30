@@ -28,6 +28,12 @@ print(mylist)
 mylist.pop()
 print(mylist)
 
+mylist.pop(1)
+print(mylist)
+
+del mylist[1]
+print(mylist)
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
