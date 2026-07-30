@@ -37,6 +37,10 @@ print(mylist)
 mylist.clear()
 print(mylist)
 
+print("vedant" in mylist)
+
+print("sachin" not in mylist)
+
 thislist = ["apple", "banana", "cherry"]
 print(len(thislist)) #constructor
 
