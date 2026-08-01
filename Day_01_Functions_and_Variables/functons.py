@@ -1,7 +1,3 @@
-# ===============================
-# Python Functions Practice
-# ===============================
-
 # 1. Function without parameters
 def hello():
     print("Hello World")
@@ -65,6 +61,9 @@ def main():
     print(cube(3))
     print(factorial(5))
     outer()
+
+
+    
 
 if __name__ == "__main__":
     main()
