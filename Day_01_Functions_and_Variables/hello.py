@@ -25,3 +25,6 @@ name = input("Enter your name: ")
 print(name +{age})
 age = input("Enter your age: ")
 print(age + {name})
+
+name =input("Enter your name: ")
+print("Hello, " + name)
