@@ -31,3 +31,6 @@ print("Hello, " + name)
 
 age = input("Enter your age: ")
 print("You are " + age + " years old.")
+
+college = input("Enter your college name: ")
+print("You study at " + college + ".")
