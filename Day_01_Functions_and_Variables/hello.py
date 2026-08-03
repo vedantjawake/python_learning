@@ -34,3 +34,7 @@ print("You are " + age + " years old.")
 
 college = input("Enter your college name: ")
 print("You study at " + college + ".")
+
+phone_no = input("Enter your phone number: ")
+print("Your phone number is " + phone_no + ".")
+
