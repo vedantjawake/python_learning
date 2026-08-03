@@ -22,9 +22,9 @@ print(name + address + Phone + branch + college + detofbirth + bloodgroup)
 
 
 name = input("Enter your name: ")
-print(name +{age})
+print(name +(age))
 age = input("Enter your age: ")
-print(age + {name})
+print(age + (name))
 
 name =input("Enter your name: ")
 print("Hello, " + name)
