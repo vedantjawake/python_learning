@@ -19,3 +19,9 @@ print(detofbirth)
 bloodgroup = input("Enter your blood group: ")
 print(bloodgroup)
 print(name + address + Phone + branch + college + detofbirth + bloodgroup)
+
+
+name = input("Enter your name: ")
+print(name +{age})
+age = input("Enter your age: ")
+print(age + {name})
