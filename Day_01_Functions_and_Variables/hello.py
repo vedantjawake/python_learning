@@ -27,14 +27,14 @@ age = input("Enter your age: ")
 print(age + (name))
 
 name =input("Enter your name: ")
-print("Hello, " + name)
+print("Hello, " + name    )
 
 age = input("Enter your age: ")
 print("You are " + age + " years old.")
 
 college = input("Enter your college name: ")
-print("You study at " + college + ".")
+print("You study at " + college + "..........")
 
 phone_no = input("Enter your phone number: ")
-print("Your phone number is " + phone_no + ".")
-
+print("Your phone number is " + phone_no + "............")
+ #this is an comments
