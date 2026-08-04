@@ -37,6 +37,7 @@ print("You study at " + college + "..........")
 
 phone_no = input("Enter your phone number: ")
 print("Your phone number is " + phone_no + "............")
+#day 2
 #this is an vedant python practics 
 #this is comments
  #this is an comments
